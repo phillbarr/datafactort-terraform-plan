@@ -1,5 +1,5 @@
 variable "resource_group_name" {
-  default = "mydatalake12"
+  default = "terraformtest"
 }
 
 variable "location" {

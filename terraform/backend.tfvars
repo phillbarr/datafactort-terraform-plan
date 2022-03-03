@@ -1,5 +1,5 @@
 resource_group_name = "my-terraform-info"
 storage_account_name = "terraformstorage12345"
-container_name = "datalake-tfstate"
+container_name = "myterraformtest"
 access_key = "hfEUOnFh2QEjK/Ul62keqFg7dtPiO39EiiWDQTZc6Y0EtncmfBv+uIpqbgUdxDHBPC+pLZYtylQGNPqlayDhwQ=="
-key = "my-tfstate"
+key = "mytf-test"
